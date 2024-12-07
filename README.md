@@ -30,7 +30,7 @@ SmartElevatorSystem is an Arduino-based simulation of an elevator control system
   - `SSD1306Ascii.h`: Displays messages on the OLED screen.
 
 ## Setup Diagram  
-![alt text](image.png)
+![Schematic](https://github.com/saifrehman945/SmartElevatorSystem/doc/Circuit_diagram.png)
 
 ## Future Improvements  
 - Add more floors to the system.  
